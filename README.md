@@ -15,12 +15,11 @@ The next steps include:
  - implementing the algorithm in a driver framework for real time sound input and output
 
 Usage:
-
 make
-
 ./main "filename.wav" 'shift_percent' 
 
 for example:
+
 ./main "test.wav" 90
 
 further examples can be found in the example folder
