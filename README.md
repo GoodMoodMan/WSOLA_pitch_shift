@@ -7,6 +7,7 @@ DONE:
 Output wav file will be a sped up/down version maintaining the same Pitch. 
 
 Currently the program accepts wav files recorded using mono sound (1 channel) with a standard Sample Rate of 44.1 kHz.
+
 Using 'tinywav' open source code made by Martin Roth for reading and writing wav files.
 
 The next steps include:
@@ -15,7 +16,9 @@ The next steps include:
  - implementing the algorithm in a driver framework for real time sound input and output
 
 Usage:
+
 make
+
 ./main "filename.wav" 'shift_percent' 
 
 for example:
