@@ -27,4 +27,6 @@ for example:
 
 further examples can be found in the example folder
 
-
+This program is being developed by a team consisting of the following members:
+- Noam Ofir
+- Alon Hirshberg
